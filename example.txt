@@ -4,3 +4,5 @@ Hello, this is my first example added in git.
 Hello, this is the 2nd commit.
 #Added third line
 Hello, this is the 3rd commit worked on feature branch.
+#Added fourth line
+Hello, this is the 4th commit worked on feature branch.
