@@ -1,2 +1,4 @@
 #This is example file.
 Hello, this is my first example added in git.
+#Added second line
+Hello, this is the 2nd commit.
